@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Fangx&#39;s Blog</title>
+        <link>https://fangx-go.github.io/</link>
+        <description>Fangx&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1398511936@qq.com (Fangx)</managingEditor>
+            <webMaster>1398511936@qq.com (Fangx)</webMaster><lastBuildDate>Wed, 18 May 2022 13:22:38 &#43;0800</lastBuildDate>
+            <atom:link href="https://fangx-go.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Golang源码阅读(一)：context</title>
+    <link>https://fangx-go.github.io/context%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB/</link>
+    <pubDate>Wed, 18 May 2022 13:22:38 &#43;0800</pubDate>
+    <author>Fangx</author>
+    <guid>https://fangx-go.github.io/context%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB/</guid>
+    <description><![CDATA[<p>context，即上下文，主要用来在goroutine之间传递上下文信息，包括控制goroutine退出、共享数据。</p>]]></description>
+</item>
+</channel>
+</rss>
